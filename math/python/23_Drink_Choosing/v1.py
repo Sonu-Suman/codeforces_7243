@@ -1,4 +1,4 @@
-n, k = map(int, input("Enter: ").split())
+n, k = map(int, input("").split())
 
 C = [0]*(k+1)
 
