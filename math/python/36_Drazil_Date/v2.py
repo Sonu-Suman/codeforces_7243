@@ -10,5 +10,5 @@ def solve(l):
     return "NO"
 
 
-s = [i for i in map(int, input("Enter your numbers: ").split())]
+s = [i for i in map(int, input("").split())]
 print(solve(s))
